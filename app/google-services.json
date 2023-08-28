@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347418310902",
+    "project_id": "insatgramclone-e7171",
+    "storage_bucket": "insatgramclone-e7171.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347418310902:android:32ddda61155861a55154d7",
+        "android_client_info": {
+          "package_name": "com.asparagas.instagramclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347418310902-7jfkc7vjm1458375t4j3jgdjvbtg5ukd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfpUVKYj3LFxWuRXWt3eWG6mKGzCXdV-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347418310902-7jfkc7vjm1458375t4j3jgdjvbtg5ukd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
